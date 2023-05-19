@@ -3,6 +3,7 @@ import {Box} from '@mui/material'
 import HeroBanner from '../Components/HeroBanner'
 import SearchExercises from '../Components/SearchExercises'
 import Exercises from '../Components/Exercises'
+import VerticalComponent from '../Components/VerticalComponent'
 
 const Home = () => {
   const [bodyPart, setBodyPart]= useState("all")
@@ -12,6 +13,7 @@ const Home = () => {
   return (
     <Box>
       <HeroBanner />
+      <VerticalComponent />
       <SearchExercises
         setExercises= {setExercises}
         bodyPart ={bodyPart}
