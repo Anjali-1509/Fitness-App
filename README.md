@@ -9,7 +9,16 @@ Workout Tracking: Easily track your workouts.
 
 Exercise Library: Access an extensive library of exercises with detailed instructions and video demonstrations to ensure proper form and technique.
 
-RapidAPI Integration: Leveraging RapidAPI's capabilities, our Gym App integrates with fitness-related APIs to provide real-time data, including exercise databases and nutrition information.
+RapidAPI Integration: Leveraging RapidAPI's capabilities, This Gym App integrates with fitness-related APIs to provide real-time data, including exercise databases and nutrition information.
+
+# Technology Stack
+The Fitness App is built using the following technologies:
+
+React: The app is developed using the React framework, which enables the creation of dynamic and interactive user interfaces.
+
+Material-UI: Material-UI is utilized for designing the app's user interface. It offers a library of pre-designed components that provide a modern and visually appealing look.
+
+RapidAPI Integration: The Fitness App leverages the power of RapidAPI to access fitness-related APIs, such as exercise databases and nutritional information. This integration enhances the app's functionality and provides real-time data to users.
 
 # Acknowledgements
 I would like to express my gratitude to the open-source community for their contributions, as well as the following resources that helped me build this Gym App:
